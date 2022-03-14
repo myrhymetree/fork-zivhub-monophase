@@ -1,10 +1,10 @@
 # 노력하는개발자 박성준입니다 <!-- omit in toc -->
 
-Monophase is *a one-column minimal responsive Jekyll blog theme*.
+저는 피드백을 받으면 즉각적으로 반영하려고 노력하는 개발자입니다
 
-One of the purposes of Monophase is to be an alternative option to the default theme of Jekyll—[Minima](https://github.com/jekyll/minima). Monophase is still keeping minimal, but meanwhile, more beautiful and mellow, and doesn't lose some useful basic features, such as archive.
+이번에 구현한 프로젝트 입니다
 
-Check the *[live demo](https://zivlog.io/monophase/)*.
+Check the *[waterfall Project](https://www.notion.so/hammang/Project-Waterfall-Service-_-5a6ad4519cf14f4fb05ee8516402d9d2)*.
 
 ![Screenshot Light](screenshot-light.png)
 ![Screenshot Dark](screenshot-dark.png)
