@@ -1,4 +1,4 @@
-# Monophase <!-- omit in toc -->
+# 노력하는개발자 박성준입니다 <!-- omit in toc -->
 
 Monophase is *a one-column minimal responsive Jekyll blog theme*.
 
