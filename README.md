@@ -1,3 +1,6 @@
+2022년 3월경에 forked.
+waterfall 방식의 pms 개발 프로젝트에 참고하려고 fork한것으로 추정.
+
 ![Screenshot Light](screenshot-light.png)
 ![Screenshot Dark](screenshot-dark.png)
 
